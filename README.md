@@ -13,5 +13,5 @@ For instance,
 
 <b>Output</b>:
 
-<img src="https://user-images.githubusercontent.com/83728289/208257739-8ad7cbbe-e545-466d-b3c1-d67dd621aa4e.png" width="320" height="480">
+<img src="https://user-images.githubusercontent.com/83728289/208257739-8ad7cbbe-e545-466d-b3c1-d67dd621aa4e.png" width="320" height="560">
 <sup>(Original Output)</sup>
